@@ -10,5 +10,5 @@ numero2 = int(input("Ingresa el segundo número: "))
 # Calculamos el MCD usando la función que definimos
 mcd = calcular_mcd(numero1, numero2)
 
-# Mostramos el resultado
 print(f"El MCD de {numero1} y {numero2} es: {mcd}")
+print("*** ¡Fin del programa! ***")
